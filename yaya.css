@@ -79,11 +79,34 @@ body{
     border: black 1px solid;
     text-align: left;
     font-size: 22px;
+    margin-right: 40%;
+    padding-left: 10px;
 }
 
 .uso-bit{
     border: 10px purple solid ;
     float: right;
-    width: 20%;
+    width: 15%;
+    margin-right: 22%;
+}
 
+.transacao{
+    font-size: 50px;
+    color: rgb(89, 89, 89);
+    text-align: right;
+    margin-top: 200px;
+}
+
+.blockchain{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.caixa-blockchain{
+    border: 1px black solid;
+    margin-left: 350px;
+    margin-right: 350px;
+    color: rgb(89, 89, 89);
+    font-size: 20px;
+    text-align: center;
 }
